@@ -1,30 +1,27 @@
 ---
 template: HomePage
 slug: ""
-title: Yellowcake
+title: Göteborgs Uppfinnareförening
 featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
-subtitle: Dupa dupa
+subtitle: '***"Föreningen för alla uppfinnare oavsett var i landet du bor"***'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: ""
+  title: ""
 ---
+**[Välkommen att söka medlemskap i GUF](http://www.guf.se/index.php/medlem/bli-medlem/)**
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+GUF erbjuder ett stort internt kontaktnät med bred kompetens, allt för att du som uppfinnare ska komma vidare med dina idéer/uppfinningar. Självklart kan du bli medlem även utan egna idéer/uppfinningar men med en vilja att hjälpa andra framåt. Du har då en kompetens som kan vara av värde för uppfinnarna tex framtagning av ritningar, prototyptillverkning, industridesign, IP kunskap, juridisk kompetens etc.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+[](http://www.guf.se/wp-content/upLoads/2020/11/Detta-far-du-som-medlem-i-GUF.pdf)**[\[Detta får du som medlem i GUF](http://www.guf.se/wp-content/upLoads/2020/11/Detta-far-du-som-medlem-i-GUF.pdf)](http://www.guf.se/wp-content/upLoads/2020/11/Detta-far-du-som-medlem-i-GUF.pdf)**
 
-# Features
+### Så här gör du:
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+[\***Fyll i vår medlemsansökan**](http://www.guf.se/wp-content/upLoads/2018/07/GUF-MEDLEMSANSOKAN-maj-2018.pdf)
 
-## Get started
+[\***Signera sekretessavtalet**](http://www.guf.se/wp-content/upLoads/2018/07/GUF-SEKRETESSATAGANDE-maj-2018.pdf)
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+Skicka detta digitalt till [info@guf.se](mailto:info@guf.se) tillsammans med en ***kopia på din ID handling.***
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Vi återkommer för ett telefonsamtal eller personligt möte när detta har inkommit. Betalning 400 kr för dig över 25 år och du som är under 25 år gäller 250 kr för ett kalenderår, men detta tar vi efter samtalet. Oavsett var i landet du är bosatt kan du söka medlemskap i GUF.
+
+Vill du först bara ställa lite frågor- veta mera, så kan du göra det också på [info@guf.se](mailto:info@guf.se)
