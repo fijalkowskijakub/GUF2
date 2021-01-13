@@ -43,9 +43,8 @@ export class Navigation extends Component {
       NavLink = ({ to, className, children, ...props }) => (
         <Link
           to={to}
-          className={`NavLink ${
-            to === this.state.currentPath ? 'active' : ''
-          } ${className}`}
+          className={`NavLink ${to === this.state.currentPath ? 'active' : ''
+            } ${className}`}
           onClick={this.handleLinkClick}
           onKeyDown={this.handleLinkKeyDown}
           tabIndex={0}
@@ -71,21 +70,19 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/">Home</NavLink>
-            <NavLink to="/components/">Components</NavLink>
+            <NavLink to="/">Hem</NavLink>
+            <NavLink to="/components/">Medlem</NavLink>
             <div
-              className={`Nav--Group ${
-                this.state.activeSubNav === 'posts' ? 'active' : ''
-              }`}
+              className={`Nav--Group ${this.state.activeSubNav === 'posts' ? 'active' : ''
+                }`}
             >
               <span
-                className={`NavLink Nav--GroupParent ${
-                  this.props.location.pathname.includes('posts') ||
-                  this.props.location.pathname.includes('blog') ||
-                  this.props.location.pathname.includes('post-categories')
+                className={`NavLink Nav--GroupParent ${this.props.location.pathname.includes('posts') ||
+                    this.props.location.pathname.includes('blog') ||
+                    this.props.location.pathname.includes('post-categories')
                     ? 'active'
                     : ''
-                }`}
+                  }`}
                 onClick={() => this.toggleSubNav('posts')}
                 onKeyDown={e => this.keyToggleSubNav(e, 'posts')}
                 tabIndex={0}
