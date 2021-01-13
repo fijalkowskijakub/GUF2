@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Göteborgs Uppfinnareförening
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/323fd518-e84a-4f82-8f54-5f2d55b6d60d/
 subtitle: '***"Föreningen för alla uppfinnare oavsett var i landet du bor"***'
 meta:
   description: ""
@@ -12,7 +12,7 @@ meta:
 
 GUF erbjuder ett stort internt kontaktnät med bred kompetens, allt för att du som uppfinnare ska komma vidare med dina idéer/uppfinningar. Självklart kan du bli medlem även utan egna idéer/uppfinningar men med en vilja att hjälpa andra framåt. Du har då en kompetens som kan vara av värde för uppfinnarna tex framtagning av ritningar, prototyptillverkning, industridesign, IP kunskap, juridisk kompetens etc.
 
-[](http://www.guf.se/wp-content/upLoads/2020/11/Detta-far-du-som-medlem-i-GUF.pdf)**[\[Detta får du som medlem i GUF](http://www.guf.se/wp-content/upLoads/2020/11/Detta-far-du-som-medlem-i-GUF.pdf)](http://www.guf.se/wp-content/upLoads/2020/11/Detta-far-du-som-medlem-i-GUF.pdf)**
+[](http://www.guf.se/wp-content/upLoads/2020/11/Detta-far-du-som-medlem-i-GUF.pdf)**[[Detta får du som medlem i GUF](http://www.guf.se/wp-content/upLoads/2020/11/Detta-far-du-som-medlem-i-GUF.pdf)](http://www.guf.se/wp-content/upLoads/2020/11/Detta-far-du-som-medlem-i-GUF.pdf)**
 
 ### Så här gör du:
 
