@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Medlem
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
+featuredImage: https://ucarecdn.com/ca55f853-ffd7-4705-ba90-8cc469ef27e8/
 subtitle: ...
 section1: >-
   ## **Aktiviteter**
@@ -11,14 +11,10 @@ section1: >-
   Medlemmarna kan ta del av aktiviteter där personerna som ingår ger varandra tips och råd utifrån egna kunskaper och erfarenheter. Alla aktiviteter sker under sekretess. 
 
 
-
-
   #### **Open Innovation**
 
 
   Varannan onsdagkväll är det medlemsträffar. En del av dessa kallar vi Open Innovation. Det är träffar där en eller flera medlemmar presenterar sin uppfinning, med syftet att få tips och råd på frågeställningar som han eller hon vill ha svar på - det handlar om att komma vidare i innovationsprocessen. 
-
-
 
 
   #### **EntreprenörsBubbel**
@@ -27,14 +23,10 @@ section1: >-
   Träffar med fokus på sälj och marknadsföring. För dig som fått ut eller håller på att få ut din innovation på marknaden. Gruppen har en samtalsledare.
 
 
-
-
   #### **InnovatörsBubbel**
 
 
-  Träffar med fokus för dig som vill komma framåt i innovationsprocessen. Diskussionsinriktat där medlemmen presenterar sin uppfinning för gruppen och får feedback kring tekniska lösningar, materialval, marknadsföring med mera. Gruppen har en samtalsledare.`
-
-  `
+  Träffar med fokus för dig som vill komma framåt i innovationsprocessen. Diskussionsinriktat där medlemmen presenterar sin uppfinning för gruppen och får feedback kring tekniska lösningar, materialval, marknadsföring med mera. Gruppen har en samtalsledare.
 
 
   #### **Mentorer**
