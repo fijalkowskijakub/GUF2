@@ -1,30 +1,19 @@
 ---
 template: DefaultPage
 slug: default
-title: Default
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+title: Sponsorer
+featuredImage: https://ucarecdn.com/0e2f7e86-3f83-4722-a21f-47456279fce0/
 meta:
   description: test meta description
   title: test meta title
 ---
-
-## This is the DefaultPage template
-
-Paragraphs are separated by a blank line.
-
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
-
-### Unordered lists:
-
-- this one
-- that one
-- the other one
+# Gå med i våra sponsorer
 
 ### Ordered lists:
 
-1.  first item
-1.  second item
-1.  third item
+1. first item
+2. second item
+3. third item
 
 > Block quotes are written like so.
 >
