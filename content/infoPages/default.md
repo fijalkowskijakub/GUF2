@@ -4,8 +4,8 @@ slug: default
 title: Sponsorer
 featuredImage: https://ucarecdn.com/0e2f7e86-3f83-4722-a21f-47456279fce0/
 meta:
-  description: test meta description
-  title: test meta title
+  description: ""
+  title: Sponsorer
 ---
 # Gå med i våra sponsorer
 
