@@ -66,8 +66,8 @@ class Form extends React.Component {
           name={name}
           action={action}
           onSubmit={this.handleSubmit}
-          data-netlify=""
-          netlify-recaptcha=""
+          data-netlify="false"
+          data-netlify-recaptcha="false"
         >
           {this.state.alert && (
             <div className="Form--Alert">{this.state.alert}</div>
@@ -125,7 +125,7 @@ class Form extends React.Component {
             />
             <span>Email address</span>
           </label>
-          <label className="Form--Label has-arrow">
+          {/* <label className="Form--Label has-arrow">
             <select
               className="Form--Input Form--Select"
               name="type"
@@ -139,7 +139,7 @@ class Form extends React.Component {
               <option>Found a bug</option>
               <option>Want to say hello</option>
             </select>
-          </label>
+          </label> */}
           <label className="Form--Label">
             <textarea
               className="Form--Input Form--Textarea Form--InputText"
